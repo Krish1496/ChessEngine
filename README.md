@@ -17,8 +17,3 @@ It supports board representation, evaluation, and search with transposition tabl
 
 ---
 
-## 🚀 How to Build & Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/<your-username>/chess-engine.git
-   cd chess-engine
